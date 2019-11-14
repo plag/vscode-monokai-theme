@@ -63,7 +63,7 @@
 		// "terminal.ansiBrightBlack": "#666666",
 		// "terminal.ansiBrightBlue": "#819aff",
 		// "terminal.ansiBrightCyan": "#59e4ff",
-		// "terminal.ansiBrightGreen": "#a6e22e",
+		// "terminal.ansiBrightGreen": "#9acf2e",
 		// "terminal.ansiBrightMagenta": "#ae81ff",
 		// "terminal.ansiBrightRed": "#f92672",
 		// "terminal.ansiBrightWhite": "#ffffff",
@@ -368,7 +368,7 @@
 				"meta.template.expression"
 			],
 			"settings": {
-				"foreground": "#ffffff"
+				"foreground": "#f8f8f8"
 			}
 		},
 		{
@@ -397,7 +397,7 @@
 			"scope": "variable",
 			"settings": {
 				"fontStyle": "",
-				"foreground": "#ffffff"
+				"foreground": "#f8f8f8"
 			}
 		},
 		{
@@ -434,7 +434,7 @@
 				// "support.class"
 			],
 			"settings": {
-				"foreground": "#a6e12d"
+				"foreground": "#9acf2e"
 			}
 		},
 		{
@@ -442,7 +442,7 @@
 			"scope": "entity.other.inherited-class",
 			"settings": {
 				"fontStyle": "italic underline",
-				"foreground": "#A6E22E"
+				"foreground": "#9acf2e"
 			}
 		},
 		{
@@ -450,7 +450,7 @@
 			"scope": "entity.name.function",
 			"settings": {
 				"fontStyle": "",
-				"foreground": "#A6E22E"
+				"foreground": "#9acf2e"
 			}
 		},
 		{
@@ -474,7 +474,7 @@
 			"scope": "entity.other.attribute-name",
 			"settings": {
 				"fontStyle": "",
-				"foreground": "#A6E22E"
+				"foreground": "#9acf2e"
 			}
 		},
 		{
@@ -555,7 +555,7 @@
 			"name": "diff.inserted",
 			"scope": "markup.inserted",
 			"settings": {
-				"foreground": "#A6E22E"
+				"foreground": "#9acf2e"
 			}
 		},
 		{
@@ -610,7 +610,7 @@
 			"name": "Markup Headings",
 			"scope": "markup.heading",
 			"settings": {
-				"foreground": "#A6E22E"
+				"foreground": "#9acf2e"
 			}
 		},
 		{
@@ -618,7 +618,7 @@
 			"scope": "markup.heading.setext",
 			"settings": {
 				"fontStyle": "",
-				"foreground": "#A6E22E"
+				"foreground": "#9acf2e"
 			}
 		},
 		{
@@ -695,14 +695,14 @@
 			"name": "Python class defined",
 			"scope": "entity.name.type.class.python",
 			"settings": {
-				"foreground": "#a6e22eff"
+				"foreground": "#9acf2eff"
 			}
 		},
 		{
 			"name": "Python class inherit",
 			"scope": "meta.class.python support.type.python",
 			"settings": {
-				"foreground": "#a6e22eff"
+				"foreground": "#9acf2eff"
 			}
 		},
 		{
