@@ -481,7 +481,7 @@
 			"scope": "variable.function",
 			"settings": {
 				"name": "Function and method names should be scoped using the following, but only when they are being invoked. When defined, they should use entity.name.function.",
-				"foreground": "#a6e12d"
+				"foreground": "#9acf2e"
 			}
 		},
 		{
