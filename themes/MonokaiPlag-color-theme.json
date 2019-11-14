@@ -62,7 +62,7 @@
 		// "terminal.ansiBlue": "#6a7ec8",
 		// "terminal.ansiBrightBlack": "#666666",
 		// "terminal.ansiBrightBlue": "#819aff",
-		// "terminal.ansiBrightCyan": "#59e4ff",
+		// "terminal.ansiBrightCyan": "#53d3ec",
 		// "terminal.ansiBrightGreen": "#9acf2e",
 		// "terminal.ansiBrightMagenta": "#ae81ff",
 		// "terminal.ansiBrightRed": "#f92672",
@@ -320,21 +320,21 @@
 			"name": "JavaScript - DOM & invocation color fix",
 			"scope": "meta.function-call.js entity.name.function, meta.function-call.js support.function.dom.js, support.variable.dom.js, support.variable.property.js",
 			"settings": {
-				"foreground": "#59e4ff"
+				"foreground": "#53d3ec"
 			}
 		},
 		{
 			"name": "JavaScript - if object property fix",
 			"scope": "support.variable.property.process",
 			"settings": {
-				"foreground": "#59e4ff"
+				"foreground": "#53d3ec"
 			}
 		},
 		{
 			"name": "JavaScript - if object fix",
 			"scope": "support.variable.object.process",
 			"settings": {
-				"foreground": "#59e4ff",
+				"foreground": "#53d3ec",
 				"fontStyle": "italic"
 			}
 		},
@@ -420,7 +420,7 @@
 			"scope": "storage.type",
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#59e4ff"
+				"foreground": "#53d3ec"
 			}
 		},
 		{
@@ -489,7 +489,7 @@
 			"scope": "support.function",
 			"settings": {
 				"fontStyle": "",
-				"foreground": "#66D9EF"
+				"foreground": "#53d3ec"
 			}
 		},
 		{
@@ -497,7 +497,7 @@
 			"scope": "support.constant",
 			"settings": {
 				"fontStyle": "",
-				"foreground": "#59e4ff"
+				"foreground": "#53d3ec"
 			}
 		},
 		{
@@ -505,7 +505,7 @@
 			"scope": "support.type, support.class",
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#59e4ff"
+				"foreground": "#53d3ec"
 			}
 		},
 		{
@@ -595,7 +595,7 @@
 			"name": "Markup Styling",
 			"scope": "markup.bold, markup.italic",
 			"settings": {
-				"foreground": "#59e4ff"
+				"foreground": "#53d3ec"
 			}
 		},
 		{
@@ -665,7 +665,7 @@
 			"name": "GO fix - define var, correct color",
 			"scope": "keyword.var.go",
 			"settings": {
-				"foreground": "#59e4ff",
+				"foreground": "#53d3ec",
 				"fontStyle": "italic"
 			}
 		},
@@ -673,7 +673,7 @@
 			"name": "PHP fix - function call",
 			"scope": "meta.method-call.php entity.name.function",
 			"settings": {
-				"foreground": "#59e4ff",
+				"foreground": "#53d3ec",
 				"fontStyle": ""
 			}
 		},
@@ -709,7 +709,7 @@
 			"name": "Python function call",
 			"scope": "meta.function-call.generic.python",
 			"settings": {
-				"foreground": "#59e4ffff"
+				"foreground": "#53d3ecff"
 			}
 		},
 		{
@@ -723,7 +723,7 @@
 			"name": "Python decorator call",
 			"scope": "entity.name.function.decorator.python",
 			"settings": {
-				"foreground": "#59e4ff"
+				"foreground": "#53d3ec"
 			}
 		}
 	]
